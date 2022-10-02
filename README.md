@@ -13,9 +13,9 @@ Nestjs API for client and address register.
 ```bash
 git clone https://github.com/rodsilvavieira2/nest-teamsoft.git
 
-yarn int-app
+yarn init-app
  #or
-npm run ini-app
+npm run init-app
 ```
 
 ## Database Schema
