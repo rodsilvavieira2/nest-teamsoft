@@ -11,12 +11,10 @@ Nestjs API for client and address register.
 ## How start
 
 ```bash
-git clone
+git clone https://github.com/rodsilvavieira2/nest-teamsoft.git
 
 yarn int-app
-
  #or
-
 npm run ini-app
 ```
 
